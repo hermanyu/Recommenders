@@ -1,0 +1,6 @@
+data/
+.ipynb_checkpoints/
+scratch_work/
+scratch_work.ipynb
+.Rproj.user
+.Rhistory
